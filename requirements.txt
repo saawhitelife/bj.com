@@ -1,0 +1,11 @@
+Django==1.5.11
+django-durationfield==0.5.2
+django-extensions==1.6.7
+django-mongodb-engine==0.6.0
+django-rest-framework-mongoengine==3.3.1
+djangorestframework==3.2.0
+djangotoolbox==1.8.0
+mongoengine==0.9.0
+pymongo==2.9.4
+requests==2.12.1
+six==1.10.0
